@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[5]:
+# In[7]:
 
 
 import random
@@ -15,7 +15,7 @@ def print_random_numbers(count, start, end):
 print_random_numbers(5, 1, 10)
 
 
-# In[6]:
+# In[8]:
 
 
 import random
