@@ -1,0 +1,6 @@
+# 仮想環境をアクティブ化
+bash
+source nbstripout/bin/activate
+
+cmd
+.\venv\Scripts\activate
